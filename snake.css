@@ -1,0 +1,13 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#score, #level {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#game-over {
+    margin-top: 20px;
+}
